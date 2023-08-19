@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo Bennaton</h1>
 <h3 align="center">I am an on-going in development Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardo-miguel-bennaton&label=Profile%20views&color=0e75b6&style=flat" alt="eduardo-miguel-bennaton" /> </p>
-
 - 🔭 I’m currently working on **General Growth Knowledge**
 
 - 🌱 I’m currently learning **Flutter, JavaScript, HTML, CSS, C++, Python, Java**
