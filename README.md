@@ -2,9 +2,7 @@
 <h3 align="center">I am an on-going in development Software Engineer</h3>
 
 - I’m currently working on **General Growth Knowledge**
-
 - I’m currently learning **Flutter, JavaScript, HTML, CSS, C++, Python, Java**
-
 - How to reach me **eduardo.bennaton.handal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
