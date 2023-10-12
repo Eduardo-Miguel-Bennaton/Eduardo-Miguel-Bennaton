@@ -1,5 +1,5 @@
 <p align="center">Hi there, I'm</p>
-<h1 align="center">Eduardo Bennaton</h1>
+<p align="center">Eduardo Bennaton</p>
 <h3 align="center" style="color: black;">I am an ongoing in-development Software Engineer</h3>
 
 - I’m currently working on **General Growth Knowledge**
