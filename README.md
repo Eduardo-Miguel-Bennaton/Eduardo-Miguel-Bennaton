@@ -1,4 +1,4 @@
-<p align="center" style="color: black; size: 50;">Hi 👋, I'm Eduardo Bennaton</p>
+<h1 align="center">Hi 👋, I'm Eduardo Bennaton</h1>
 <h3 align="center" style="color: black;">I am an ongoing in-development Software Engineer</h3>
 
 - I’m currently working on **General Growth Knowledge**
