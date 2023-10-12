@@ -1,5 +1,5 @@
 <h1 align="center" style="color: black;">Hi 👋, I'm Eduardo Bennaton</h1>
-<h3 align="center">I am an on-going in development Software Engineer</h3>
+<h3 align="center" style="color: black;">I am an ongoing in-development Software Engineer</h3>
 
 - I’m currently working on **General Growth Knowledge**
 - I’m currently learning **Flutter, JavaScript, HTML, CSS, C++, Python, Java**
