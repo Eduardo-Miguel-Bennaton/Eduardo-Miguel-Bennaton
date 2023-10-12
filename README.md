@@ -1,5 +1,4 @@
-<h3 align="center">Hi there, I'm</h3>
-<h1 align="center">Eduardo Bennaton</h1>
+<h1 align="center">Hi there!</h1>
 <h3 align="center" style="color: black;">I am an ongoing in-development Software Engineer</h3>
 
 - I’m currently working on **General Growth Knowledge**
