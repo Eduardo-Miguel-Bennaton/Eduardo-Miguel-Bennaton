@@ -1,8 +1,10 @@
 <h1 align="center">Hi there!</h1>
-<h3 align="center" style="color: black;">I am an ongoing in-development Software Engineer</h3>
+<h3 align="center" style="color: black;">I am a 19-year-old in-development Software Engineer.</h3>
+
+I am happy to have attracted your attention. Coding is a hard-core passion of mine. I hope that in the journey of my profile exploration, you can find what you are seeking!
 
 - I’m currently working on **General Growth Knowledge**
-- I’m currently learning **Flutter, JavaScript, HTML, CSS, C++, Python, Java**
+- I’m currently learning **Dart, JavaScript, HTML, CSS**
 - How to reach me **eduardo.bennaton.handal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
