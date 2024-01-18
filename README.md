@@ -7,8 +7,8 @@ I am happy to have attracted your attention. Coding is a hard-core passion of mi
 - I’m currently learning **Dart, JavaScript, HTML, CSS**
 - How to reach me **eduardo.bennaton.handal@gmail.com**
 
-Portfolio Link:
-<a href="https://eduardo-miguel-bennaton.github.io/Portfolio-V2/" target="blank">
+Portfolio can be found here:
+<a href="https://eduardo-miguel-bennaton.github.io/Portfolio-V2/" target="blank">Click me!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
