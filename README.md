@@ -8,7 +8,8 @@ I am happy to have attracted your attention. Coding is a hard-core passion of mi
 - How to reach me **eduardo.bennaton.handal@gmail.com**
 
 Portfolio can be found here:
-<a href="https://eduardo-miguel-bennaton.github.io/Portfolio-V2/" target="_blank" rel="noopener">Click me!</a>
+<a href="https://eduardo-miguel-bennaton.github.io/Portfolio-V2/" target="_blank">Click me!</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
