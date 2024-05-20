@@ -4,7 +4,6 @@
 I am happy to have attracted your attention. Coding is a hard-core passion of mine. I hope that in the journey of my profile exploration, you can find what you are seeking!
 
 - I’m currently working on **General Growth Knowledge**
-- I’m currently learning **Dart, JavaScript, HTML, CSS**
 - How to reach me **eduardo.bennaton.handal@gmail.com**
 
 Portfolio can be found here:
