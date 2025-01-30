@@ -1,10 +1,12 @@
 <h1 align="center">Hi there!</h1>
 <h3 align="center" style="color: black;">I am a 20-year-old Software Engineer.</h3>
 
-I am happy to have attracted your attention. Coding is a hard-core passion of mine. I hope that in the journey of my profile exploration, you can find what you are seeking!
+I’m delighted to have captured your interest. 
 
-- I’m currently working on **General Growth Knowledge**
-- How to reach me **eduardo.bennaton.handal@gmail.com**
+Software development is a core passion of mine. I thrive on tackling challenges that enhance my problem-solving skills and refine my system design approach, all while creating impactful, scalable solutions.
+As you explore my profile, I hope you'll find the innovation and technical expertise you're looking for.
+
+- You can reach me through my email: **eduardo.bennaton.handal@gmail.com**
 
 My portfolio can be found here:
 <a href="https://eduardo-miguel-bennaton.github.io/Portfolio-V2/" target="_blank">Click me!</a>
