@@ -8,10 +8,6 @@ As you explore my profile, I hope you'll find the innovation and technical exper
 
 - You can reach me through my email: **eduardo.bennaton.handal@gmail.com**
 
-My portfolio can be found here:
-<a href="https://eduardo-miguel-bennaton.github.io/Portfolio-V2/" target="_blank">Click me!</a>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eduardo-miguel-bennaton-handal-945588270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-miguel-bennaton-handal-945588270/?trk=public-profile-join-page" height="30" width="40" /></a>
